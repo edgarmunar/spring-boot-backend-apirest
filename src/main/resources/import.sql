@@ -1,0 +1,11 @@
+insert into cliente (nombre,apellido,email,create_at) values ('Edgar','Munar','edgarmunar@hotmail.com','2024-01-02');
+insert into cliente (nombre,apellido,email,create_at) values ('Pedro','Puñetas','pedroPuñetas@hotmail.com','2024-01-02');
+insert into cliente (nombre,apellido,email,create_at) values ('Juan','Gonzalez','JuanGonzalez@hotmail.com','2024-01-02');
+insert into cliente (nombre,apellido,email,create_at) values ('Lorenzo','Lopez','lorenzoLopez@hotmail.com','2024-01-02');
+insert into cliente (nombre,apellido,email,create_at) values ('Lucas','Casemiro','LucasJaramillo@hotmail.com','2024-01-02');
+insert into cliente (nombre,apellido,email,create_at) values ('Marty','Mc Fly','MartyMCFly@hotmail.com','2024-01-02');
+insert into cliente (nombre,apellido,email,create_at) values ('Emmmeth','Brown','emmethBronw@hotmail.com','2024-01-02');
+insert into cliente (nombre,apellido,email,create_at) values ('Julian','Perez','julianPerez@hotmail.com','2024-01-02');
+insert into cliente (nombre,apellido,email,create_at) values ('Carlos','Ardila','carlosArdila@hotmail.com','2024-01-02');
+insert into cliente (nombre,apellido,email,create_at) values ('Paola','Lopez','PaoLopez@hotmail.com','2024-01-02');
+insert into cliente (nombre,apellido,email,create_at) values ('Francisca','Lunar','FranciscaLunar@hotmail.com','2024-01-02');
