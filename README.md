@@ -2,6 +2,8 @@
 
 Este proyecto en Spring Boot proporciona un ejemplo de backend que implementa operaciones básicas de **CRUD** (Crear, Leer, Actualizar y Eliminar). Está diseñado para demostrar cómo construir una API RESTful sencilla utilizando Spring Boot, facilitando la gestión de datos a través de operaciones CRUD comunes.
 
+Conexion con cliente en Angular frontend [Ejemplo de Backend con Operaciones CRUD en Spring Boot](https://github.com/edgarmunar/cliente-app)
+
 ### ¿Qué es CRUD?
 
 CRUD son las siglas de **Crear**, **Leer**, **Actualizar** y **Eliminar**, que representan las operaciones fundamentales para gestionar datos en una base de datos o sistema de almacenamiento. Estas operaciones permiten a las aplicaciones manipular y gestionar datos de manera eficiente.
